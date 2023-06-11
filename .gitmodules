@@ -1,0 +1,3 @@
+[submodule "EveryCoding_Frontend"]
+	path = EveryCoding_Frontend
+	url = https://github.com/every-coding/EveryCoding_Frontend
